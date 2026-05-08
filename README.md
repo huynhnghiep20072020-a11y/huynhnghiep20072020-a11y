@@ -1,7 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Huỳnh Nhơn Nguyên Nghiệp
-
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Huỳnh Nhơn Nguyên Nghiệp
-
 <p align="left">
   <img src="https://img.shields.io/badge/-Information%20Technology%20Student-green?style=flat-square&logo=gitbook&logoColor=white" alt="IT Student Badge" />
   <img src="https://img.shields.io/badge/-PTIT%20Student-red?style=flat-square&logo=google-classroom&logoColor=white" alt="PTIT Student Badge" />
