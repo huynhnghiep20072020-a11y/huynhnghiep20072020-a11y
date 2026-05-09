@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhnghiep20072020-a11y&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhnghiep20072020-a11y&layout=compact&theme=tokyonight&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
 
 ---
