@@ -1,0 +1,25 @@
+name: Auto Green Bot
+
+on:
+  schedule:
+    - cron: '0 5,16 * * *'
+  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công để kiểm tra
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Make changes
+        run: |
+          echo "Last automation: $(date)" > heartbeat.txt
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "huynhnghiep20072020-a11y"
+          git config --global user.email "huynhnghiep20072020@gmail.com"
+          git add heartbeat.txt
+          git commit -m "chore: daily heartbeat update [skip ci]"
+          git push
