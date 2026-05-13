@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,mysql,vscode,git,bash,github&perline=12" height="55" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,mysql,vscode,git,github&perline=12" height="55" />
   </a>
 </p>
 
