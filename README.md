@@ -9,7 +9,7 @@
 
 ### 🚀 Giới thiệu bản thân
 - 🎓 **Học vấn:** Sinh viên chuyên ngành Công nghệ thông tin tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).
-- 🇯🇵 **Ngoại ngữ:** Đang học tiếng Nhật trình độ **N5**.
+- 🇯🇵 **Ngoại ngữ:** Đang học tiếng Nhật trình độ **N4**.
 - 📸 **Sở thích:** Đam mê xem phim ,nhiếp ảnh, cầu lông,
 
 ---
@@ -33,9 +33,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhnghiep20072020-a11y&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhnghiep20072020-a11y&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=huynhnghiep20072020-a11y&theme=tokyonight&v=2026_refresh" />
 </p>
-
 <p align="center">
   <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhnghiep20072020-a11y&layout=compact&theme=tokyonight&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
