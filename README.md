@@ -38,7 +38,6 @@
 <p align="center">
   <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhnghiep20072020-a11y&layout=compact&theme=tokyonight&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
-
 ---
 ### 📫 Liên hệ
 * <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="20px"> **Zalo:** [0363341633](https://zalo.me/0365255070)
