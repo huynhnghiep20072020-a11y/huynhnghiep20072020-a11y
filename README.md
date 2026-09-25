@@ -30,10 +30,10 @@
 
 ---
 
-### 📊 Hoạt động & Ngôn ngữ lập trình
+### 📊 GitHub Stats
 <p align="center">
-  <!-- Biểu đồ 3D Contrib thay thế cho biểu đồ mặc định -->
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution" width="100%" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhnghiep20072020-a11y&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhnghiep20072020-a11y&theme=tokyonight" />
 </p>
 
 <p align="center">
